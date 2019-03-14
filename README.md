@@ -1,5 +1,5 @@
 # DigitalEnablerHackathon
-We created a system that allows to different users that are living on a city to report different kind of issues: noisy areas, air contamination.
+We created a system that allows to different users that are living on a city to report different problematics on their living areas like: noise, air contamination, water quality...
 
 We have two components:
 - A dashboard that shows every alert with water and air contamination.
@@ -16,6 +16,6 @@ Features:
 The application is made using Flutter, a cross platform mobile app development framework.
 Features:
 - The application allows people to signal problems in construction sites or at industrial locations that have been registerd in the system.
-- The problems can for example be air quality problems or noise problems.
+- The problems can be for example air quality problems or noise problems.
 - It should be used by people to report any issues during production or development.
-- The issues are reported to the platform where their are visualized
+- The issues are reported to the platform where their are visualized.
