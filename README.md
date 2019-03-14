@@ -6,7 +6,7 @@ We have two components:
 - An application that allows to create alerts.
 
 ## Dashboard
-We are using [Digital Enabler Platform](digitalenabler.eng.it) for creating the dashboard and connecting the different datasets.
+We are using [Digital Enabler Platform](http://digitalenabler.eng.it) for creating the dashboard and connecting the different datasets.
 Features:
 - Overview of the alerts from the users. 
 - It shows air quality and noise around the city on a map.
