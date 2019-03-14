@@ -1,0 +1,31 @@
+name: place_tracker
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+  google_maps_flutter: ^0.0.3
+
+  uuid: 1.0.3
+
+  location: ^1.4.0
+
+  http: 0.12.0+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/
+
+  uses-material-design: true
