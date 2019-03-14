@@ -1,4 +1,11 @@
 # DigitalEnablerHackathon
+
+Group 2 - City Monitor
+Paul German
+Hector Ballega
+Mats Mulder
+Javier Benitez
+
 We created a system that allows to different users that are living on a city to report different problematics on their living areas like: noise, air contamination, water quality...
 
 We have two components:
